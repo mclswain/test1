@@ -1,1 +1,1 @@
-lodash==4.17.20
+requests==2.22.0
